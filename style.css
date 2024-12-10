@@ -23,6 +23,7 @@ body {
 }
 
 .day {
+    border-radius: 10px;
     background-color: #000000;
     border: 2px solid #ccc;
     display: flex;
